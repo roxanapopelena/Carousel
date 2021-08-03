@@ -5,7 +5,7 @@ Instalation:<br/>
 2. Open the terminal and navigate to the project folder.<br/>
 3. Run 'npm install' to initialize the node_modules folder and download dependencies.<br/>
 4. Run 'npm start'.<br/>
-5. Check the project at localhost:3000<br/>
+5. Check out the project at localhost:3000.<br/>
 <br/>
 Project supports:<br/>
 - Both mobile and desktop devices;<br/>
