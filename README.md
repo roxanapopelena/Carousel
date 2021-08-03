@@ -11,7 +11,7 @@ Project supports:<br/>
 - Both mobile and desktop devices;<br/>
 - Finger gestures (swipes);<br/>
 - Any HTML content;<br/>
-- Finger-following swipes/animation;>br/>
+- Finger-following swipes/animation;<br/>
 - Infinite loop;<br/>
 - Option to scroll to a selected slide;<br/>
 - Automatic cycle through slides;<br/>
